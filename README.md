@@ -1,5 +1,4 @@
 University of Florida | CISE 
-Debug coder for Synapse X
 
 BS | Computer Science
 
