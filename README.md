@@ -1,7 +1,5 @@
 University of Florida | CISE 
-
 BS | Computer Science
-
-Research Interests: Cyberphysical systems, cybersecurity, data vulnerability assessment, DevOps for hardware and software
+Research Interests: Social Engineering, Usable Security, OSINT, Cyberphysical Systems
 
 
